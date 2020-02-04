@@ -1,0 +1,19 @@
+{
+  "name": "frontend-example",
+  "version": "1.0.0",
+  "description": "Front-End Tech for training by myself",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gloryan0829/frontend-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gloryan0829/frontend-example/issues"
+  },
+  "homepage": "https://github.com/gloryan0829/frontend-example#readme"
+}
